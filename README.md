@@ -1,7 +1,7 @@
 # TariffComparison
 The Project is an Interview Task SW Development from Verivox GMBH 
 Based on the Task That I received, I Implemented Restful API (Get, Post, Put, Delete).
-After execution the project, The Get Method is executed and the URL will be: 
+After execution the project, The Get Method is executed and the URL for example will be: 
 http://localhost:21737/api/Products
 
 After execution for the first time, as shown in above, without giving any parameters in the URL, The Output of the execution will show products (A and B) based on their properties (product id, Tariff name and Annual costs) in which we see 60 for Annual costs property for Product A and 800 for Annual costs property for Product B, which is in the Task paper. 
